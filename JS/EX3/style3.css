@@ -1,0 +1,19 @@
+body {
+    margin: auto;
+    background-color: lightskyblue;
+   background-image: linear-gradient( rgb(255, 0, 255),rgb(232, 57, 255)rgb(255, 0, 221)e);
+}
+
+.miolo {
+    background-color:hotpink;
+    max-width: 500px;
+    width: 70%;
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+
+
+}
