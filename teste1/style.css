@@ -1,0 +1,51 @@
+body{
+    background-color: wheat;
+}
+
+form{
+    margin-top: 15%;
+}
+
+h2{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-weight: bold;
+}
+
+input{
+    font-weight: bold;
+    background-color: rgb(219, 187, 126);
+    border: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
+textarea{
+    background-color: rgb(219, 187, 126);
+    border-width: 2px;
+    border-style: dotted;
+    font-size: large;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgb(255, 255, 255); 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(219, 187, 126); 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(197, 161, 94); 
+  }

@@ -1,0 +1,49 @@
+body{
+    background-color: cadetblue;
+}
+
+form{
+    margin-left: 40%;
+    margin-top: 20%;
+    background-color: rgb(142, 212, 214);
+    width: 15%;
+    padding: 1%;
+    text-align: center;
+    border-radius: 15px;
+    border-style: dashed;
+    border-color: black;
+}
+
+p{
+    font-weight: bold;
+}
+
+select{
+    background-color: rgb(92, 136, 138);
+    color: azure;
+    font-weight: bold;
+}
+
+option{
+    font-weight: bold;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 0px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgb(92, 136, 138); 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(122, 174, 177); 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(150, 208, 211); 
+  }
